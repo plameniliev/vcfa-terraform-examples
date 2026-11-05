@@ -25,3 +25,9 @@ variable "vpc_name" {
 variable "zone_name" {
   type        = string
 }
+
+variable "project_name" {
+  description = "Target VCF project name"
+  type        = string
+  default     = "default-project"
+}

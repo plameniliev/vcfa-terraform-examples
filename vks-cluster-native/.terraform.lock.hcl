@@ -1,0 +1,23 @@
+# This file is maintained automatically by "terraform init".
+# Manual edits may be lost in future updates.
+
+provider "registry.terraform.io/vmware/vcfa" {
+  version = "1.2.1"
+  hashes = [
+    "h1:j4BXz5knhfWPCvM+EvIBsvlI3Wj/06JamUUtJQL/a7w=",
+    "zh:08361db4be2616db7c96babe58fcbf7135fb2b45d5ff89d75427faa39f25f308",
+    "zh:0a1b6b2d8b9ddc5befec3e1736a9a848337be94d8823f73d46c1b15668356bee",
+    "zh:3e47ea6a27f9aac29f771a14c953c886c7e77646144d9f8c9231d23f58e55710",
+    "zh:5cba576eb60fed40db6f4eca51fb9ba65f028b9e2e05e499398e7527378670d6",
+    "zh:847f1b16b875130f58e58e908e4f422bf771e1fc85ef1b95ce063d37e47d9396",
+    "zh:9b12af85486a96aedd8d7984b0ff811a4b42e3d88dad1a3fb4c0b580d04fa425",
+    "zh:9b1b077888c5c97278af2a69ca36b670827ae68c64f5091f016d866523569c62",
+    "zh:bc7c219179994a36ca87eb0ee2d5e098b06c0d43ec6525b2893a0af8909c23f7",
+    "zh:bccd72d9331d4ab32e008eee49f9c1780c1b4ec94f8bc2a37303491f519212d0",
+    "zh:cf54797bba76cf9da5b40fc4634e55fb6c7a95a30523dcdb7db4b5620e9ef325",
+    "zh:d229918f1a55c9dd7712296bdd8987f8418c045e075a7e201487acf4ed93e904",
+    "zh:dcd01209f26173018005b5bd1a30efa038d66a4d770382fd88655320937cde93",
+    "zh:ef92281a1db3f8859253f7168e59eac1c47d48c4c6022022652ce67223dd7713",
+    "zh:f71b50e33b349d4be1c94b80fd529a9b6cc209154a923b9e4ae1599c7e458c70",
+  ]
+}
